@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Cybersecurity hasan',
-  tagline: 'Bring youor website to another level',
+  tagline: 'Bring youor website to another level of cybersecurity',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
