@@ -71,7 +71,7 @@ const config = {
         title: 'My Site',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/Scoutslogo.svg',
+          src: 'img/employeelogo.png',
         },
         items: [
           {
