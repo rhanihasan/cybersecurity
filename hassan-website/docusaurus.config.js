@@ -4,6 +4,7 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Cybersecurity hasan',
@@ -32,7 +33,9 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
-
+  
+  trailingSlash: false, // Add this line to remove trailing slashes from URLs
+  
   presets: [
     [
       'classic',
