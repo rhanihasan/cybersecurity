@@ -9,7 +9,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Hasan Rehni',
   tagline: 'Just an Person who is curese with information technologies',
-  favicon: '/static/img/favicon1.ico',
+  favicon: 'img/favicon1.ico',
 
   // Set the production url of your site here
   url: 'https://github.com',
