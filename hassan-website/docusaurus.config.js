@@ -9,7 +9,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Hasan Rehni',
   tagline: 'Just an Person who is curese with information technologies',
-  favicon: 'img/favicon1.ico',
+  favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://github.com',
@@ -80,12 +80,15 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
+          
           {to: '/blog', label: 'Blog', position: 'left'},
+          
           {
-            href: 'https://hasanrehni.gitbook.io/hasan/',
-            label: 'GitBook',
+            href: 'https://bpdoxs.com/',
+            label: 'BPDOXS',
             position: 'right',
           },
+         
         ],
       },
       footer: {
@@ -104,8 +107,8 @@ const config = {
             title: 'Communityss',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'GitBook',
+                href: 'https://hasanrehni.gitbook.io/hasan/',
               },
               {
                 label: 'Discord',
