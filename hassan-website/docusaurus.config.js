@@ -8,8 +8,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Hasan Rehni',
-  tagline: 'Just an Person who is curese with information technologies',
+  tagline: 'I would greatly appericate receiving inforamtion about any errors noticed by the readers so that they may be corrected as soon as possible in future. ',
   favicon: 'img/favicon.ico',
+  
 
   // Set the production url of your site here
   url: 'https://github.com',
@@ -65,6 +66,8 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+
+    
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
@@ -140,6 +143,7 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      
     }),
 };
 
