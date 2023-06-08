@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Hasan Rehni',
-  tagline: 'Just Keep Moving Forward . ',
+  tagline: 'I would greatly appericate receiving inforamtion about any errors noticed by the readers so that they may be corrected as soon as possible in future. ',
   favicon: 'img/favicon.ico',
   
 
@@ -66,7 +66,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      onBrokenLinks: 'ignore', // or 'throw' to fail the build on broken links
+
     
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
@@ -102,7 +102,7 @@ const config = {
             items: [
               {
                 label: 'Cybersecurity',
-                to: '/docs/',
+                to: '/docs/category/cybersecurity',
               },
             ],
           },
