@@ -18,6 +18,8 @@ const config = {
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/cybersecurity/',
 
+  onBrokenLinks: 'ignore', // or 'throw' to fail the build on broken links
+
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'rhanihasan', // Usually your GitHub org/user name.
@@ -67,7 +69,6 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
 
-      onBrokenLinks: 'ignore', // or 'throw' to fail the build on broken links
 
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
@@ -95,6 +96,7 @@ const config = {
          
         ],
       },
+      
       footer: {
         style: 'dark',
         links: [
@@ -103,7 +105,7 @@ const config = {
             items: [
               {
                 label: 'Cybersecurity',
-                to: '/docs/category/cybersecurity',
+                to: '/cybersecurity/docs/category/cybersecurity',
               },
             ],
           },
