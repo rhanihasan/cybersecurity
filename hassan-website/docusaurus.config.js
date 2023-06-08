@@ -105,7 +105,7 @@ const config = {
             items: [
               {
                 label: 'Cybersecurity',
-                to: '/cybersecurity/docs/category/cybersecurity',
+                to: '/cybersecurity/docs/category/',
               },
             ],
           },
