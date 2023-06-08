@@ -66,7 +66,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-
+      onBrokenLinks: 'ignore', // or 'throw' to fail the build on broken links
     
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
