@@ -24,10 +24,10 @@ you can send me a message to buy me a coffee. Thank you for understanding.
     description: (
       <>Welcome! I am a Network Security Engineer and Implementation Engineer working in the field of Cyber Security. With a passion for all things related to the industry, 
       I created this website as a way to share the information and insights I have gained throughout my career. 
-      I hope it serves as a helpful resource for others in the field and as a central repository for the references I frequently use.
+      I hope it serves as a helpful resource for others in the field and as a central  for the references I frequently use.
 
-      I welcome any questions, comments, or suggestions you may have. I am always open to constructive criticism and appreciate the opportunity to improve and grow in my career. 
-      Thank you for visiting my website.
+       <b> <code>I welcome any questions, comments, or suggestions you may have. I am always open to constructive criticism and appreciate the opportunity to improve and grow in my career. 
+      Thank you for visiting my website. </code> </b>
       </>
     ),
   },

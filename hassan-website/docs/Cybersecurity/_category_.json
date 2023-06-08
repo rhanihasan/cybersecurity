@@ -1,8 +1,8 @@
 {
-    "label": "CyberSecurity",
-    "position": 1,
-    "link": {
-      "type": "generated-index"
-    }
+  "label": "CyberSecurity ",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "This is the way i am at CyberSecurity journey ."
   }
-  
+}
