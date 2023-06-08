@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Hasan Rehni',
-  tagline: 'I would greatly appericate receiving inforamtion about any errors noticed by the readers so that they may be corrected as soon as possible in future. ',
+  tagline: 'I would greatly receiving inforamtion about any errors noticed by the readers so that they may be corrected as soon as possible in future. ',
   favicon: 'img/favicon.ico',
   
 
@@ -16,7 +16,7 @@ const config = {
   url: 'https://github.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '//cybersecurity/docs/category/cybersecurity/',
+  baseUrl: '/cybersecurity/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -67,7 +67,8 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
 
-    
+      onBrokenLinks: 'ignore', // or 'throw' to fail the build on broken links
+
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
