@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Hasan Rehni',
+  title: 'Hasan ',
   tagline: 'I would greatly receiving inforamtion about any errors noticed by the readers so that they may be corrected as soon as possible in future. ',
   favicon: 'img/favicon.ico',
   
@@ -26,8 +26,8 @@ const config = {
   projectName: 'cybersecurity', // Usually your repo name.
   deploymentBranch: 'gh-pages',
 
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenLinks: 'ignore',
+  onBrokenMarkdownLinks: 'ignore',
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -83,7 +83,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Cybersecurity',
+            label: 'basic',
           },
           
           //{to: '/blog', label: 'Blog', position: 'left'},
@@ -104,13 +104,13 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Cybersecurity',
-                to: '/cybersecurity/docs/category/',
+                label: 'Basic',
+                to: '/cybersecurity/docs/',
               },
             ],
           },
           {
-            title: 'Communityss',
+            title: 'Communitys',
             items: [
               {
                 label: 'GitBook',
