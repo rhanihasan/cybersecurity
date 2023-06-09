@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Hasan Rehni',
-  tagline: 'Just keep moving forward.. ',
+  tagline: 'Just keep moving forward..',
   favicon: 'img/favicon.ico',
   
 
@@ -18,7 +18,7 @@ const config = {
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/cybersecurity/',
 
-  onBrokenLinks: 'ignore', // or 'throw' to fail the build on broken links
+
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -83,7 +83,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'basic',
+            label: 'Hasan Resume',
           },
           
           //{to: '/blog', label: 'Blog', position: 'left'},
@@ -101,14 +101,21 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Resume & Docs',
             items: [
               {
-                label: 'Basic',
-                to: '/cybersecurity/docs/',
+                label: 'Hasan Resume',
+                to: '/cybersecurity/docs/Hasanresume',
+              },
+              {
+                label: 'CyberSecurity',
+                to: '/cybersecurity/docs/cybersecurity ',
+                
               },
             ],
           },
+
+          
           {
             title: 'Communitys',
             items: [

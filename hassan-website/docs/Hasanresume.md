@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# tutorail baisc 242467ibe7ve
+# Hasan Resumme  Work in Process..
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
