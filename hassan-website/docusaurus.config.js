@@ -7,8 +7,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Hasan ',
-  tagline: 'I would greatly receiving inforamtion about any errors noticed by the readers so that they may be corrected as soon as possible in future. ',
+  title: 'Hasan Rehni',
+  tagline: 'Just keep moving forward.. ',
   favicon: 'img/favicon.ico',
   
 
