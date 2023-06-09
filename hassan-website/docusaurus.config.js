@@ -109,7 +109,7 @@ const config = {
               },
               {
                 label: 'CyberSecurity',
-                to: '/cybersecurity/docs/cybersecurity ',
+                to: '/cybersecurity/docs/category/cybersecurity ',
                 
               },
             ],
