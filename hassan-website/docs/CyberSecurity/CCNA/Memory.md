@@ -5,6 +5,6 @@ sidebar_position: 1
 # Memory 
 
 I think We  **All know what Memory is** is Stored data.
-# Work In Process..
+# Work In Process.. and in 
 
 ![Memory Xmind map ](./img/memorymindmap.png)
