@@ -46,15 +46,19 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
+          
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
+          // Edit this on BPDOXS contact me 
+          // Note: I welcome any questions, comments, or suggestions you may have. I am always open to constructive criticism and appreciate the opportunity to improve and grow in my career. 
+      //Thank you for visiting my website.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://bpdoxs.com/index.php/contact/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
+          // Remove this to remove the "edit this " links.
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
@@ -119,17 +123,17 @@ const config = {
           {
             title: 'Communitys',
             items: [
+              //{
+                //label: 'GitBook',
+                //href: 'https://hasanrehni.gitbook.io/hasan/',
+              //},
               {
-                label: 'GitBook',
-                href: 'https://hasanrehni.gitbook.io/hasan/',
+                label: 'Instagram',
+                href: 'https://www.instagram.com/hasanrehni/',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Linkedin',
+                href: 'https://www.linkedin.com/in/hasan-rhani-767526210/',
               },
             ],
           },
