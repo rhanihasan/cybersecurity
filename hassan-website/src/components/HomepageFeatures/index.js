@@ -11,9 +11,12 @@ const FeatureList = [
 Please note that the opinions expressed on this website and my connected social media profiles are solely my own and do not represent the views or positions of my employer. 
 mentions of specific assets should not be interpreted as endorsements of any position, product, or service.
 Additionally, this Website does not generate any income for me.
-<b> <code>I would greatly appericate receiving inforamtion about any errors noticed by the readers so that they may be corrected as soon as possible in future.</code>  </b>
+
+<b> <code>I would greatly appericate receiving inforamtion about any errors noticed by the readers so that they may be corrected as soon as possible in future.Contact me on any Social  media means.
+  </code>  </b> 
  However, if you would like to support my efforts, 
 you can send me a message to buy me a coffee. Thank you for understanding.
+
       </>
     ),
   },
@@ -25,9 +28,9 @@ you can send me a message to buy me a coffee. Thank you for understanding.
       <>Welcome! I am a Network Security Engineer and Implementation Engineer working in the field of Cyber Security. With a passion for all things related to the industry, 
       I created this website as a way to share the information and insights I have gained throughout my career. 
       I hope it serves as a helpful resource for others in the field and as a central  for the references I frequently use.
-
+<h4>
        <b> <code>I welcome any questions, comments, or suggestions you may have. I am always open to constructive criticism and appreciate the opportunity to improve and grow in my career. 
-      Thank you for visiting my website. </code> </b>
+      Thank you for visiting my website. </code> </b> </h4>
       </>
     ),
   },
