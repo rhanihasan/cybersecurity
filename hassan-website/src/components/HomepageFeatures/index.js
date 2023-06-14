@@ -29,6 +29,7 @@ you can send me a message to buy me a coffee. Thank you for understanding.
       I created this website as a way to share the information and insights I have gained throughout my career. 
       I hope it serves as a helpful resource for others in the field and as a central  for the references I frequently use.
 <h4>
+  
        <b> <code>I welcome any questions, comments, or suggestions you may have. I am always open to constructive criticism and appreciate the opportunity to improve and grow in my career. 
       Thank you for visiting my website. </code> </b> </h4>
       </>

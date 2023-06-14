@@ -8,6 +8,7 @@ sidebar_position: 2
 
 ## ***What and Why is Hacking ? ***
 
+:::danger
 Opinions: **breaking any process, any misconfiguration or loopholes to use for benefits is hacking**
 
 Opinions: **unauthorized access to entity using loopholes is hacking**
@@ -20,6 +21,9 @@ Opinions: **unauthorized access to entity using loopholes is hacking**
 > 2.Why I am doing hacking because I will be the going to become the ones who understand the internet like the attackers, I saw this system for what is was a network worth protecting.
 
 >  3.Hacking is often thought of in negative terms, like the image of someone in a basement wearing a black hoodie typing on a computer, and trying to hack into the NSA. But this stereotype is wrong. Hacking can be done in different ways from mischievous individuals seeking attention to practical purposes like testing security or analyzing vulnerabilities. The main goal of hacking is to find weaknesses and try to exploit them.
+:::
+
+
 
 - Example: building is built and need to check how long the build last, check form general check team they can do anything to test the building quality like break with hammer, using acid anything.
 -  In CyberSecurity company hired hacker to break the entity because they know if this hired hacker can do then outsider hacker can also do.
@@ -54,13 +58,18 @@ Also known as ethical hackers, these individuals use their hacking skills for de
 
 ---
 
-## ***CIA Triad***
+## ***Elements of Information Security for Hacking.***
 
 **_Confidentiality_**: Data should not be shared with unauthorized.
 
 **_Integrity_**: Data should not tamper or be known as hashing.
 
 **_Availability_**: Data/anything should be available when needed.
+
+**Authenticity**: A person/ entity / data trying to snoof/pretend of being someone which it is not.
+
+**Non-repudiation**: A prove of the sender or anything which can’t be deny by someone. A guarantee entity which upholds the proof of those events/incidents that are occurred.
+
 
 ---
 
@@ -75,9 +84,13 @@ Also known as ethical hackers, these individuals use their hacking skills for de
 
 **_Passive_** **_information_**: Gathering when the target/entity is unaware that their information is being gathered.
 
+:::note
+
+>** In this part all the process of hacking depends on and the exits points._**
+
+:::
 
 
->**_Note: In this part all the process of hacking depends on and the exits points._**
 
 
 **_Scanning_**: Validating information obtained through information Gathering. During scanning, it helps in gaining access to the entity.
@@ -125,13 +138,43 @@ The goal of penetration testing is to uncover weaknesses in the system's defense
 
 ---
 
+## **_Classification Of Attacks_**
+
+**_Passive attacks_**: This Attack doesn’t let the target/entity knows that they have been attack. It doesn’t break the CIA.
+
+**_Active Attacks_**: Break the CIA Trails.
+
+**_Session hijacking_**: Session hijacking using cookie templates
+
+>**_Example:_** **_is a website drop.com or anywebsite, use the cookie extension_**
+>
+>_This attack more effective when the Tester has physically avaibility._
+>
+>> _Login with the user1 account --> then go to cookie and open -->  export -> its export in json format --> then logout --> then go to home --> open cookie extension --> import  ._
+>
+>_And its login with the user1 account using the user1 cookie._
+
+
+**_Close-in attack_** : This is performed when the attacker in-close with the target/entity physically Which the target and target system in order to gather information.
+
+>**_Example:_** **_social enginerring, eavesdropping, shoulder suffing, bucket dumster._**
+
+**_Insider Attack_**: the ORG/entity staff try to breach using any malicious codes.
+>**_Example:_** **_Malware, Backdoors._**
+
+**_Distribution attack is on software level ._**
+
 ## ***Stages Of Hacking***
 
 
 ***Its Starts with Reconnaissances --> Scanning & Enumeration --> Gaining Access --> Maintaining the Access --> Covering Tracks.. ***
 
+
+:::tip
+
 >Sometimes because of human error and more. repeat this process as many times as want..
 
+:::
 ![Stages of hacking ](./cybersecurity_img/Stages_of_hacking.png)
 
 **_Planning and Reconnaissance_** 
@@ -211,7 +254,39 @@ _During this phase the **tester** attempts to take **advantage** of any **vulner
 	- **_Confirm access_**_: verifying that the **exploit** was **successful** and that the hacker has **gained access** to the target system or networks._
 
 
+## **_CVE – Common Vulnerabilities and Exposures_**
 
+**_CVE_** _(Common Vulnerabilities and Exposures) is a standardized identifier for a software vulnerability, which identify to refer in world wide ._
+
+**_CVSS – Common Vulnerability Scoring System_**
+
+_while_ **_CVSS_** _(Common Vulnerability Scoring System) is a numerical score that assesses the severity of a vulnerability._
+
+>**_CVS calculator:_**
+>
+>CVS calculator provide the criticality on CVE.
+>
+**_Base score metric_** :
+>
+>>_Attack Vendor_
+>
+>>_Network AV_ --> Public to Public networks.
+>
+>>_Adjancet AV_ --> Attack use IOT Devices.
+>
+>>_Local AV_ --> Delyod localy
+>
+**_Attack Complexity_** :
+>
+>>_Low_ --> Easy attack performed.
+>
+>>_Hight_ --> Multuply methods performed.
+>
+>**_Scope_**:
+>
+>>_Unchanged_ --> Only affects the same authority / entity.
+>
+>>_Changed_ --> effect world wide which use the entity software.
 
 
 
