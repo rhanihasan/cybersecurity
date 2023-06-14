@@ -11,7 +11,7 @@ Opinions: **breaking any process, any misconfiguration or loopholes to use for b
 
 Opinions: **unauthorized access to entity using loopholes is hacking**
 
-## ***Hasan Opinions:**** 
+## ***Hasan Opinions:***
 
 
 >  1.Applying ingenuity to create clever results.
@@ -36,7 +36,7 @@ Opinions: **unauthorized access to entity using loopholes is hacking**
 
 ---
 
-## ***Different Types Of Hackers****
+## ***Different Types Of Hackers***
 
 **BlackHats Hackers**: If a hacker found any bug etc. then it will be not going to report it because the Blackhat hacker has a motive to get the benefits on it whatever the entity and utilizes to their own benefits.
 These individuals engage in illegal hacking activities, often for personal gain or to cause harm.
@@ -50,7 +50,7 @@ Also known as ethical hackers, these individuals use their hacking skills for de
 
 ---
 
-## ***CIA Traid***
+## ***CIA Triad***
 
 **_Confidentiality_**: Data should not be shared with unauthorized.
 
@@ -60,7 +60,7 @@ Also known as ethical hackers, these individuals use their hacking skills for de
 
 ---
 
-## ***Phase Of Hacking****
+## ***Phase Of Hacking***
 
 
 **Phase of hacking is the umbrella/Tree of hacking activity.**
