@@ -2,10 +2,11 @@
 sidebar_position: 2
 ---
 
-# The Begining of Hacking !!!
+# ***The Beginning of Hacking !!!***
 ---
 
-# ***What and Why is Hacking***
+
+## ***What and Why is Hacking ? ***
 
 Opinions: **breaking any process, any misconfiguration or loopholes to use for benefits is hacking**
 
@@ -154,4 +155,63 @@ The goal of penetration testing is to uncover weaknesses in the system's defense
 
 
 ![Stages of hacking ](./cybersecurity_img/Stages_of_hacking_in_details.png)
+
+---
+
+
+## ***Planning and Reconnaissance***
+
+- _The first stage involves patience's **Exploring mind** sets. Because this process is crucial to ensuring the success of the overall test._
+
+- _Planning_ _involves the large scope of testing and collection from the system Networks or entities , By doing this **I have a clear understanding of what needed to be done and what are the goals of test target are.**_
+
+- _After Planning is complete the next steps is **reconnaissance**__. This Forces on **Gathering information** about the Target._
+
+- **_Passive information is one way of collecting information about the target without knowing the target. And without Disturbing the normal activities of target_**
+
+-  **This are the following steps**
+	- **_Gathering Intelligence_**_: Collect information about the target system or network. This involves activities as a passive network scanning through site such as shodain.io and Censys.io caring out information_
+	
+	- **_Identifying vulnerabilities:_** _Find potential vulnerabilities in the target system or network, such as software vulnerabilities via the output of the Gather Intelligence techniques._
+	
+	- **_Developing a plan:_** _Create a detailed plan for the rest of the engagement, including the specific tools and techniques that will be used._
+
+##  ***Scanning and Enumeration***
+
+- _It is a crucial step towards identifying any **vulnerabilities** in the target system or network. During this phase, the **tester** makes use of many various tools and techniques to gather more information about the target system or networks._
+
+- _One of the primary objectives of this phase is to identify any open **ports** and services that are running on the target system. This information can then be used to identify **potential vulnerabilities** that can be **exploited**. Also known as **Active Scanning.**_
+
+- **This are the following steps**
+	- **_Port scanning:_** _Using a tool to scan the target system or network for open ports._
+	
+	- **_Service identification:_** _Identifying the specific services or applications running on the target system or network._
+	
+	- **_Enumeration:_** _Gathering additional information about the target system or network, such as usernames._
+	
+	-  **_Password abuse:_** _Attempting to guess or crack passwords for accounts on the target system or network._
+
+
+## **_Exploitation_**
+
+_During this phase the **tester** attempts to take **advantage** of any **vulnerabilities** that been **identified** in order to gain access to the target system or network. This can involve a range of techniques, such as **social engineering, password cracking, and the use of malware.**_
+
+-  **This are the following steps**
+	- **_Identify a vulnerabilities_** _: finding a specific vulnerability in a target system or network that could be **exploited** to gain._
+	
+	- **_Develop an exploit_**_: creating or obtaining a piece of code or technique that can be used to exploit the identified vulnerability._
+	
+	- **_Test the exploit_**_: Testing the **exploit** to ensure that it **works as intended.**_
+	
+	- **_Execute the exploit_**_: running the **exploit** against the target system or networks to gain access._
+	
+	- **_Confirm access_**_: verifying that the **exploit** was **successful** and that the hacker has **gained access** to the target system or networks._
+
+
+
+
+
+
+
+
 
