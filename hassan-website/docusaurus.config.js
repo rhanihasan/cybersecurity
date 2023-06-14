@@ -52,8 +52,8 @@ const config = {
           // Edit this on BPDOXS contact me 
           // Note: I welcome any questions, comments, or suggestions you may have. I am always open to constructive criticism and appreciate the opportunity to improve and grow in my career. 
       //Thank you for visiting my website.
-          editUrl:
-            'https://bpdoxs.com/index.php/contact/',
+         // editUrl:
+           // 'https://bpdoxs.com/index.php/contact/',
         },
         // blog: {
         //  showReadingTime: true,
