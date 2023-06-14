@@ -87,7 +87,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Hasan Resume',
+            label: 'Cyber Security',
           },
           
           //{to: '/blog', label: 'Blog', position: 'left'},
