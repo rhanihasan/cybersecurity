@@ -24,6 +24,8 @@ Opinions: **unauthorized access to entity using loopholes is hacking**
 -  In CyberSecurity company hired hacker to break the entity because they know if this hired hacker can do then outsider hacker can also do.
 -  The best way to prevent hacking is to perform hacking
 
+---
+
 ##  ***Different NAME from REDTEAM Side:***
 
 **Hackers** : Hacker will perform the unauthorized access to entity.
@@ -31,6 +33,8 @@ Opinions: **unauthorized access to entity using loopholes is hacking**
 **Crackers** : It’s the one who utilizes the unauthorized access to damage the entitle.
 
 **Script Kidde** : They don’t have the in-depend knowledge of script, like using someone else tool to perform hacking is a part of script kidding. These individuals use pre-written scripts or tools to hack into systems, often without understanding how they work.  including ME:(
+
+---
 
 ## ***Different Types Of Hackers****
 
@@ -44,13 +48,17 @@ Also known as ethical hackers, these individuals use their hacking skills for de
 
 **Blue Hat Hackers**: These individuals are not professional hackers, but may engage in hacking as a hobby or to test their own systems or networks
 
-## ***CIA Traid****
+---
+
+## ***CIA Traid***
 
 **_Confidentiality_**: Data should not be shared with unauthorized.
 
 **_Integrity_**: Data should not tamper or be known as hashing.
 
 **_Availability_**: Data/anything should be available when needed.
+
+---
 
 ## ***Phase Of Hacking****
 
@@ -76,6 +84,8 @@ Also known as ethical hackers, these individuals use their hacking skills for de
 
 **_Clearing tracks and reporting_**:
 -  _Reporting: the documents the vulnerabilities, methods used, and potential impact. They then present the findings to relevant parties, explain the vulnerabilities clearly, and provide Solutions recommendations.._ _Reporting helps the organizations to identify and address vulnerabilities, improving their security and protecting sensitive data._
+
+---
 
 
 ## ***Penetration Testing***
@@ -109,6 +119,7 @@ The goal of penetration testing is to uncover weaknesses in the system's defense
 >
 >_All these **testing methodologies** are reported and aim to assess the potential damage an entity may incur when subjected to actual hacking attempts, helping identify and fix the issue_.
 
+---
 
 ## ***Stages Of Hacking***
 
@@ -138,6 +149,8 @@ The goal of penetration testing is to uncover weaknesses in the system's defense
 **CoveringTracks**
 - **_Reporting and Remediation_**
 	- _This stage involves compiling a detailed report of the findings, including any identified vulnerabilities, the impact of the vulnerabilities, and recommended mitigation measures. It is important to follow a structured process such as this to ensure that all relevant areas are covered and that appropriate mitigation measures are put in place._
+
+---
 
 
 ![Stages of hacking ](./cybersecurity_img/Stages_of_hacking_in_details.png)
