@@ -25,6 +25,8 @@ Opinions: **unauthorized access to entity using loopholes is hacking**
 -  In CyberSecurity company hired hacker to break the entity because they know if this hired hacker can do then outsider hacker can also do.
 -  The best way to prevent hacking is to perform hacking
 
+![  Different NAME from REDTEAM Side ](./cybersecurity_img/Different_NAME_from_REDTEAM_Side.png)
+
 ---
 
 ##  ***Different NAME from REDTEAM Side:***
@@ -33,7 +35,8 @@ Opinions: **unauthorized access to entity using loopholes is hacking**
 
 **Crackers** : It’s the one who utilizes the unauthorized access to damage the entitle.
 
-**Script Kidde** : They don’t have the in-depend knowledge of script, like using someone else tool to perform hacking is a part of script kidding. These individuals use pre-written scripts or tools to hack into systems, often without understanding how they work.  including ME:(
+**Script Kidde** : They don’t have the in-depend knowledge of script, like using someone else tool to perform hacking is a part of script kidding. These individuals use pre-written scripts or tools to hack into systems, often without understanding how they work.  including ME 
+
 
 ---
 
