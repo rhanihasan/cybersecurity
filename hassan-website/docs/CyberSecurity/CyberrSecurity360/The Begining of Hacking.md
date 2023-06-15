@@ -273,7 +273,7 @@ _while_ **_CVSS_** _(Common Vulnerability Scoring System) is a numerical score t
 >
 >>_Network AV_ --> Public to Public networks.
 >
->>_Adjancet AV_ --> Attack use IOT Devices.
+>>_Adjacent  AV_ --> Attack use IOT Devices.
 >
 >>_Local AV_ --> Deployed locally 
 >
