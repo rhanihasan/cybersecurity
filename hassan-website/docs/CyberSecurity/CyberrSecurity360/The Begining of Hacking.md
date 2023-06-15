@@ -275,13 +275,13 @@ _while_ **_CVSS_** _(Common Vulnerability Scoring System) is a numerical score t
 >
 >>_Adjancet AV_ --> Attack use IOT Devices.
 >
->>_Local AV_ --> Delyod localy
+>>_Local AV_ --> Deployed locally 
 >
 **_Attack Complexity_** :
 >
 >>_Low_ --> Easy attack performed.
 >
->>_Hight_ --> Multuply methods performed.
+>>_Hight_ --> Multiply  methods performed.
 >
 >**_Scope_**:
 >
