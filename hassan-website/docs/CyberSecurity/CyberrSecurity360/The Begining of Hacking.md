@@ -9,9 +9,9 @@ sidebar_position: 2
 ## ***What and Why is Hacking ? ***
 
 :::danger
-Opinions: **breaking any process, any misconfiguration or loopholes to use for benefits is hacking**
+Opinions: **Breaking any process, any misconfiguration or loopholes to use for benefits is hacking**
 
-Opinions: **unauthorized access to entity using loopholes is hacking**
+Opinions: **Unauthorized access to entity using loopholes is hacking**
 
 ## ***Hasan Opinions:***
 
@@ -29,7 +29,7 @@ Opinions: **unauthorized access to entity using loopholes is hacking**
 -  In CyberSecurity company hired hacker to break the entity because they know if this hired hacker can do then outsider hacker can also do.
 -  The best way to prevent hacking is to perform hacking
 
-![  Different NAME from REDTEAM Side ](./cybersecurity_img/Different_NAME_from_REDTEAM_Side.png)
+
 
 ---
 
@@ -41,6 +41,7 @@ Opinions: **unauthorized access to entity using loopholes is hacking**
 
 **Script Kidde** : They don’t have the in-depend knowledge of script, like using someone else tool to perform hacking is a part of script kidding. These individuals use pre-written scripts or tools to hack into systems, often without understanding how they work.  including ME 
 
+![  Different NAME from REDTEAM Side ](./cybersecurity_img/Different_NAME_from_REDTEAM_Side.png)
 
 ---
 
@@ -86,7 +87,7 @@ Also known as ethical hackers, these individuals use their hacking skills for de
 
 :::note
 
->** In this part all the process of hacking depends on and the exits points._**
+** In this part all the process of hacking depends on and the exits points._**
 
 :::
 
@@ -172,7 +173,7 @@ The goal of penetration testing is to uncover weaknesses in the system's defense
 
 :::tip
 
->Sometimes because of human error and more. repeat this process as many times as want..
+Sometimes because of human error and more. repeat this process as many times as want..
 
 :::
 ![Stages of hacking ](./cybersecurity_img/Stages_of_hacking.png)
@@ -254,11 +255,11 @@ _During this phase the **tester** attempts to take **advantage** of any **vulner
 	- **_Confirm access_**_: verifying that the **exploit** was **successful** and that the hacker has **gained access** to the target system or networks._
 
 
-## **_CVE – Common Vulnerabilities and Exposures_**
+## **_CVE – Termiologies**
 
 **_CVE_** _(Common Vulnerabilities and Exposures) is a standardized identifier for a software vulnerability, which identify to refer in world wide ._
 
-**_CVSS – Common Vulnerability Scoring System_**
+**_CVSS – Terminologies**
 
 _while_ **_CVSS_** _(Common Vulnerability Scoring System) is a numerical score that assesses the severity of a vulnerability._
 
