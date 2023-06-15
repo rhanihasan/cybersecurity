@@ -255,11 +255,11 @@ _During this phase the **tester** attempts to take **advantage** of any **vulner
 	- **_Confirm access_**_: verifying that the **exploit** was **successful** and that the hacker has **gained access** to the target system or networks._
 
 
-## **_CVE – Termiologies**
+## **_CVE – Termiologies_**
 
 **_CVE_** _(Common Vulnerabilities and Exposures) is a standardized identifier for a software vulnerability, which identify to refer in world wide ._
 
-**_CVSS – Terminologies**
+**_CVSS – Terminologies_**
 
 _while_ **_CVSS_** _(Common Vulnerability Scoring System) is a numerical score that assesses the severity of a vulnerability._
 
