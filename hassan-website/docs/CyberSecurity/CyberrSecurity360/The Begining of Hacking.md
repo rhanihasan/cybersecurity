@@ -259,7 +259,7 @@ _During this phase the **tester** attempts to take **advantage** of any **vulner
 
 **_CVE_** _(Common Vulnerabilities and Exposures) is a standardized identifier for a software vulnerability, which identify to refer in world wide ._
 
-**_CVSS – Terminologies_**
+## **_CVSS – Terminologies_**
 
 _while_ **_CVSS_** _(Common Vulnerability Scoring System) is a numerical score that assesses the severity of a vulnerability._
 
