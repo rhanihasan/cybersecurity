@@ -57,9 +57,9 @@ Also known as ethical hackers, these individuals use their hacking skills for de
 
 **Blue Hat Hackers**: These individuals are not professional hackers, but may engage in hacking as a hobby or to test their own systems or networks
 
-:::tip
-![Different_types_of_hackers] (./cybersecurity_img/Different_types_of_hackers.png)
-:::
+
+! [Different_types_of_hackers] (./cybersecurity_img/DiffDifferent_types_of_hackers.png)
+
 
 ---
 
