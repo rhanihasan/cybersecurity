@@ -207,8 +207,8 @@ Sometimes because of human error and more. repeat this process as many times as 
 
 ![Stages of hacking ](./cybersecurity_img/Stages_of_hacking_in_details.png)
 
----
 
+---
 
 ## ***Planning and Reconnaissance***
 
@@ -296,5 +296,23 @@ _while_ **_CVSS_** _(Common Vulnerability Scoring System) is a numerical score t
 
 
 
+# PCI-DSS 
+
+## What is PCI-DSS? 
+
+**It the standard for Payment industry,**
+	Its policies are as follow
+>	1.	protect the User Data.
+>	2.	Encrypt of User Data.
+>	3.	Password Policies of User Data.
+>	4.	Non-redemption for Both entities.
+>	and more.
+
+# Meta DATA 
+## What is Meta Data ? 
+Whenever computer/device  creates files, it creates meta data and saved that meta data. 
+:::note
+The meta data can be retrieve by multiply ways,
+::: 
 
 
