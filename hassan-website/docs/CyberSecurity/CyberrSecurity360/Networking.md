@@ -248,12 +248,13 @@ which is  
     
 
 >Server: means whatever software is deployed. 
-Client: they are using the software without copying the actual data. 
+>Client: they are using the software without copying the actual data. 
 
 
 
 >Server --> HTTP, MYSQL, FTP, open SHH 
-Client --> Browser/curl, Maria Database, FTP client, SSH 
+
+>Client --> Browser/curl, Maria Database, FTP client, SSH 
 
 
 Whatever the software functionality is..  but when the software is over the world to use as a server and client using ports. 
