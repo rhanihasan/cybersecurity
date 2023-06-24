@@ -182,23 +182,23 @@ Sometimes because of human error and more. repeat this process as many times as 
 :::
 ![Stages of hacking ](./cybersecurity_img/Stages_of_hacking.png)
 
-**_Planning and Reconnaissance_** 
+### **_Planning and Reconnaissance_** 
 - **_Active vs Passive_**
 	- _This stage involves mapping out the target network or system, identifying any potential vulnerabilities, and assessing the potential impact of an attack_
 
-**Scanning and Enumeration**
+### **Scanning and Enumeration**
 - **_Nmap_**
 	- _This stage involves using a variety of tools and techniques to identify potential entry points, such as open ports or services that may be vulnerable to exploitation._
 
-**Gaining Access**
+### **Gaining Access**
 - **_Exploitation_**
 	- _This stage involves leveraging the identified vulnerabilities to gain access to the target system or network. Once access has been gained_
 
-**Post Exploit**
+### **Post Exploit**
 - **_Maintain Access_**
 	- _This stage involves conducting further reconnaissance, escalating privileges, and maintaining access to the target system or network._
 
-**CoveringTracks**
+### **CoveringTracks**
 - **_Reporting and Remediation_**
 	- _This stage involves compiling a detailed report of the findings, including any identified vulnerabilities, the impact of the vulnerabilities, and recommended mitigation measures. It is important to follow a structured process such as this to ensure that all relevant areas are covered and that appropriate mitigation measures are put in place._
 
@@ -311,7 +311,7 @@ _while_ **_CVSS_** _(Common Vulnerability Scoring System) is a numerical score t
 ---
 
 # ***Meta DATA*** 
-## ***What is Meta Data*** ? 
+***## What is Meta Data*** ? 
 
 Whenever computer/device  creates files, it creates meta data and saved that meta data. 
 
