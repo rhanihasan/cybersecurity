@@ -2,14 +2,14 @@
 sidebar_position: 3
 ---
 
-# NetWorking !
+# Networking !
 
 
-## What is Network ?
+## ***What is Network ?***
 
 Connecting two or more computers.
 
-## What is Networking ?
+## ***What is Networking ?***
 
 Understanding the concept of Network.
 
@@ -21,7 +21,7 @@ Understanding the concept of Network.
 
 ---
 
-## ISO  Internation standard Organization
+## ***ISO  Internation standard Organization***
 
 - An organization that sets international standards for all different kinds of measurement. 
     
@@ -31,7 +31,7 @@ Understanding the concept of Network.
 - ISO file is created by Linux O.S version Of Ubuntu. 
     
 
-### Open system interconnection. 
+### ***Open system interconnection*** 
 
 - The OSI model describes seven layers that computer systems use to communicate over a network. 
     
@@ -42,9 +42,9 @@ Understanding the concept of Network.
 When company create new pc and OSI is applied that means company agree to OSI protocols /rules.] 
  
 
-### How data transfer through OSI? Through OSI LAYERS. ?
+### ***How data transfer through OSI? Through OSI LAYERS ?***
 
-OSI Model Layers. 
+*OSI Model Layers.* 
 
 1.Application: means to make connection for interface other devices it requires http, https, ftp. 
 
@@ -62,15 +62,15 @@ OSI Model Layers. 
 
 ---
 
-## TCP/IP
+## ***TCP/IP***
 
-### What is TCP/IP ?
+### ***What is TCP/IP ?***
 
 TCP/IP stands for Transmission Control Protocol/Internet Protocol, and it used for communication protocols. 
 
 TCP and IP protocol combine in this TCP/IP protocol. 
 
-### How does TCP/IP function ? 
+### ***How does TCP/IP function*** ? 
 
 - TCP/IP operates based on the client-server communication model, where a user or machine (referred to as a client) receives a service, such as sending a webpage, from another computer (referred to as a server) within the network. 
     
@@ -80,7 +80,7 @@ TCP and IP protocol combine in this TCP/IP protocol. 
 - The TCP/IP model is somewhat different from the seven-layer Open Systems Interconnection (OSI) networking model that was created later. The OSI reference model outlines how applications can communicate across a network. 
     
 
-#### There are 4 layer in TCP/IP 
+#### ***There are 4 layer in TCP/IP*** 
 
 1.Application Layer : which include the osi 3 layer , which is Application presentation, sessions layer
 
@@ -100,7 +100,7 @@ TCP and IP protocol combine in this TCP/IP protocol. 
 - TCP has protocol number 6. 
     
 
-TCP has a three-way handshake. 
+TCP has a **three-way handshake**. 
 
 - A ==> B SYK packet 
     
@@ -119,14 +119,14 @@ If the connection is closed this packet will be there. 
 - A <== B Fin ack packet. 
     
 
-This is called a five-way handshake.
+This is called a **five-way handshake.**
 
 ---
 
 
-## UDP  
+## ***UDP***  
 
-### What is UDP ?
+### ***What is UDP ?***
 
 - User Datagram protocol, protocol number is 17. 
     
@@ -138,9 +138,9 @@ This is called a five-way handshake.
 - It is also known as ‘stateless protocol’ meaning it doesn’t acknowledge that packet being sent have been received it most used for steaming media. 
     
 
-## IP
+## ***IP***
 
-### What is IP ?
+### ***What is IP ?***
 
 - Internet Protocols. 
     
@@ -155,10 +155,9 @@ This is called a five-way handshake.
 >Example of Ip and mac: company give a id card to you that called IP, 
 >
 >Whereas there is personal identity you have is called as MAC. 
->
 Company then only hires where you have MAC addr then only you get IP addr. 
 
-### IP Address Versions 
+### ***IP Address Versions*** 
 
 - IP Addr has Ipv4 and Ipv6 are Open source activated 
     
@@ -174,22 +173,22 @@ Company then only hires where you have MAC addr then only you get IP addr. 
 - IPv6 use hexadecimal, 
     
 
-## DNS
+## ***DNS***
 
-### What is DNS ?
+### ***What is DNS ?***
 
 - Domain Name System uses port 53 works on UDP protocol mostly but also works on TCP. 
     
 
-### Why DNS come ? 
+### ***Why DNS come ?*** 
 
 Because all the device /router/ any machine understand binary, and we humans are not good in remembering numbers/IP Addrs. That why DNS comes and helps , 
 
 It requery Numbers / IP Addrs into Names  
 
-### DNS Records
+### ***DNS Records***
 
-#### What is DNS Records ?
+#### ***What is DNS Records ?***
 
 DNS has Multiply types of Records  
 
@@ -202,42 +201,42 @@ DNS has Multiply types of Records  
 - Name server Record: It provides information about authoritative name servers for a domain. 
     
 
-- CNAME Record: Redirector [One server domain redirect to Different Server domain], It acts as a redirector, redirecting one server domain to a different server domain. 
+- CNAME Record: Redirector (One server domain redirect to Different Server domain), It acts as a redirector, redirecting one server domain to a different server domain. 
     
 
 :::note
  The latest and best which is used in Current Network environment is QUIC Protocol !!. 
 :::
 
-## Network devices 
+## ***Network devices*** 
 
-- Router: A router is a device that connects two or more networks together. Routers use the internet layer to route data between networks. 
+- *Router*: A router is a device that connects two or more networks together. Routers use the internet layer to route data between networks. 
     
-- Switch: A switch is a device that connects devices on the same network together. Switches use the data link layer to forward data between devices. 
-    
-
-- Hub: A hub is a device that connects devices on the same network together. Hubs use the physical layer to repeat data between devices. 
-    
-- Wireless: A wireless access point is a device that allows devices to connect to a network wirelessly. Wireless access points use the physical layer to transmit data over the air. 
+- *Switch*: A switch is a device that connects devices on the same network together. Switches use the data link layer to forward data between devices. 
     
 
-## Network Cable 
-
-- UTC Cable: UTP cable is a type of cable that is used to connect devices to a network. UTP cable is made up of four pairs of copper wires. And it transports in Waves. 
+- *Hub*: A hub is a device that connects devices on the same network together. Hubs use the physical layer to repeat data between devices. 
     
-- Fiber cable: Fiber optic cable is a type of cable that is used to connect devices to a network. Fiber optic cable is made up of a thin strand of glass or plastic that carries light. It transports in light.
+- *Wireless*: A wireless access point is a device that allows devices to connect to a network wirelessly. Wireless access points use the physical layer to transmit data over the air. 
+    
+
+## ***Network Cable*** 
+
+- *UTC Cable*: UTP cable is a type of cable that is used to connect devices to a network. UTP cable is made up of four pairs of copper wires. And it transports in Waves. 
+    
+- *Fiber cable*: Fiber optic cable is a type of cable that is used to connect devices to a network. Fiber optic cable is made up of a thin strand of glass or plastic that carries light. It transports in light.
 
 ---
 
-## PORTS
+## ***PORTS***
 
 - Its has two Types.
-- Physical port: which is ethernet, USB, AUX.... 
+- *Physical port*: which is ethernet, USB, AUX.... 
     
 
-- Virtual port: it has a pair of 65535... 
+- *Virtual port*: it has a pair of 65535... 
     
-### What are the ways ports go ?
+### ***What are the ways ports go ?***
 
 It has two ways to go TCP or UDP 
 
@@ -257,8 +256,9 @@ Client: they are using the software without copying the actual data. 
 
 
 
->Server ==> HTTP, MYSQL, FTP, open SHH 
-Client ==> Browser/curl, Maria Database, FTP client, SSH 
+>Server --> HTTP, MYSQL, FTP, open SHH 
+
+>Client --> Browser/curl, Maria Database, FTP client, SSH 
 
 
 Whatever the software functionality is..  but when the software is over the world to use as a server and client using ports. 
