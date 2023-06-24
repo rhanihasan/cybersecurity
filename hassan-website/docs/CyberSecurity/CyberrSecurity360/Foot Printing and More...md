@@ -210,4 +210,6 @@ Checked the env file.
 - As the above results show there is authentication Functions from index.html knowing it is in GitLab, with enumeration break the CIA! of monash.edu 
 :::
     
-    
+:::success
+This is Basic Bypass Authentication of monash.edu
+:::
