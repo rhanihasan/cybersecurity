@@ -296,9 +296,9 @@ _while_ **_CVSS_** _(Common Vulnerability Scoring System) is a numerical score t
 
 
 
-# PCI-DSS 
+# ***PCI-DSS*** 
 
-## What is PCI-DSS? 
+## ***What is PCI-DSS ?*** 
 
 **It the standard for Payment industry,**
 	Its policies are as follow
@@ -308,9 +308,13 @@ _while_ **_CVSS_** _(Common Vulnerability Scoring System) is a numerical score t
 >	4.	Non-redemption for Both entities.
 >	and more.
 
-# Meta DATA 
-## What is Meta Data ? 
+---
+
+# ***Meta DATA*** 
+***## What is Meta Data*** ? 
+
 Whenever computer/device  creates files, it creates meta data and saved that meta data. 
+
 :::note
 The meta data can be retrieve by multiply ways,
 ::: 
