@@ -258,14 +258,15 @@ Client --> Browser/curl, Maria Database, FTP client, SSH 
 
 Whatever the software functionality is..  but when the software is over the world to use as a server and client using ports. 
 
+## ***Netcat***
+
+### ***What is Netcat ? ***
 Netcat is a software who communicate in TCP and UDP protocal. 
 
 Netcat can become server or client.  
 
 - In order to make a server netcat has to listen. 
-    
-
-- -L listing become a server and use a software. -P port  -v verbosity 
+    - -L listing become a server and use a software. -P port  -v verbosity 
     
 
 ```
