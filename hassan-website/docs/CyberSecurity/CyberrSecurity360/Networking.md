@@ -102,21 +102,17 @@ TCP and IP protocol combine in this TCP/IP protocol. 
 
 TCP has a **three-way handshake**. 
 
-- A ==> B SYK packet 
-    
-- A <== B SYK packet 
-    
-
-- A ==> B ACK Packet 
+- A --> B SYK packet 
+- A <-- B SYK packet 
+- A --> B ACK Packet 
     
 
 Now the connection is made. This process is called TCP full connection also known as three-way handshake. 
 
 If the connection is closed this packet will be there. 
 
-- A ==> B Fin packet. 
-    
-- A <== B Fin ack packet. 
+- A --> B Fin packet. 
+- A <-- B Fin ack packet. 
     
 
 This is called a **five-way handshake.**
@@ -257,8 +253,7 @@ Client: they are using the software without copying the actual data. 
 
 
 >Server --> HTTP, MYSQL, FTP, open SHH 
-
->Client --> Browser/curl, Maria Database, FTP client, SSH 
+Client --> Browser/curl, Maria Database, FTP client, SSH 
 
 
 Whatever the software functionality is..  but when the software is over the world to use as a server and client using ports. 
