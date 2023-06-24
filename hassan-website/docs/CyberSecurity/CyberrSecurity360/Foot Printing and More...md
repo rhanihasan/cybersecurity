@@ -8,7 +8,7 @@ sidebar_position: 4
 
 # Foot Printing And More.. 
 
-  
+  ---
 
 ## ***What is Foot Printing***  
 
@@ -20,7 +20,7 @@ Foot Printing means there is a history of information, A mark leave behind or th
 
 - After validation when the information is dug up is called enumerations. 
 
-  
+---
 
 ## ***Type of Foot Printing*** 
 
@@ -33,6 +33,7 @@ Foot Printing means there is a history of information, A mark leave behind or th
 - Active: the target knows that they have been footprinted and the tester is not anonyms. 
 
   
+---
 
 # ***Wappalyzer - Technology profiler***  
 
@@ -46,7 +47,8 @@ As nmap works in Command line interface Wappalyzer works for Graphical level.
 
 It helps us in Gathering information, enumeration, and more. 
 
-  
+
+---
 
 # ***Passive Foot printing, Recon and Enumerations***  
 
@@ -107,6 +109,8 @@ As there is PAAS services there which means this website is using AWS Services.
   
 
   
+---
+
 
 # ***Basic Authentication Bypass*** 
 
