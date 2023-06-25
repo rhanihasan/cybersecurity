@@ -132,7 +132,9 @@ This is called a **five-way handshake.**
 - It has header/Flag size of 8bytes. 
     
 - It is also known as ‘stateless protocol’ meaning it doesn’t acknowledge that packet being sent have been received it most used for steaming media. 
-    
+
+
+---
 
 ## ***IP***
 
@@ -153,6 +155,8 @@ This is called a **five-way handshake.**
 >Whereas there is personal identity you have is called as MAC. 
 Company then only hires where you have MAC addr then only you get IP addr. 
 
+---
+
 ### ***IP Address Versions*** 
 
 - IP Addr has Ipv4 and Ipv6 are Open source activated 
@@ -168,6 +172,8 @@ Company then only hires where you have MAC addr then only you get IP addr. 
     
 - IPv6 use hexadecimal, 
     
+---
+
 
 ## ***DNS***
 
@@ -204,6 +210,9 @@ DNS has Multiply types of Records  
  The latest and best which is used in Current Network environment is QUIC Protocol !!. 
 :::
 
+---
+
+
 ## ***Network devices*** 
 
 - *Router*: A router is a device that connects two or more networks together. Routers use the internet layer to route data between networks. 
@@ -215,6 +224,8 @@ DNS has Multiply types of Records  
     
 - *Wireless*: A wireless access point is a device that allows devices to connect to a network wirelessly. Wireless access points use the physical layer to transmit data over the air. 
     
+---
+
 
 ## ***Network Cable*** 
 
