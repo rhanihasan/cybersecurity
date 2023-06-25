@@ -102,8 +102,8 @@ TCP and IP protocol combine in this TCP/IP protocol. 
 
 TCP has a **three-way handshake**. 
 
-- A --> B SYK packet 
-- A <-- B SYK packet 
+- A --> B SYK Packet 
+- A <-- B SYK.ACK Packet 
 - A --> B ACK Packet 
     
 
@@ -271,5 +271,25 @@ Netcat can become server or client.  
     
 
 ```
- nc –L  -p 1 –v
+nc –L  -p 1 –v
 ```
+
+- In order to make client connect to netcat server using the below cmd
+- Which means >>#<code>***nc (server-ip) 127.0.0.1 (port) 1***</code>
+```
+nc  127.0.0.1 1
+```
+
+![netcatserver_client](./cybersecurity_img/Networking/ports/netcatserver_client.png)
+
+- Wireshark filter For TCP ports {Any Random Port}
+```
+**_tcp.port==1_**
+```
+
+- Wireshark packet 
+	- TCP SYN,
+	- TCP SY+ACK
+	- TCP ACK
+
+![tcp_port1_3wayhankshake](./cybersecurity_img/Networking/ports/tcp_port1_3wayhankshake.png)
