@@ -284,7 +284,7 @@ nc  127.0.0.1 1
 
 - Wireshark filter For TCP ports {Any Random Port}
 ```
-_tcp.port==1
+tcp.port==1
 ```
 
 - Wireshark packet 
