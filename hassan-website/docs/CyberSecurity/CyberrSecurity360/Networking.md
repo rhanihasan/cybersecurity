@@ -21,13 +21,12 @@ Understanding the concept of Network.
 
 ---
 
-## ***ISO  Internation standard Organization***
+## ***ISO  International Standard Organization***
 
 - An organization that sets international standards for all different kinds of measurement. 
     
 - ISO created OSI in 1970, 
     
-
 - ISO file is created by Linux O.S version Of Ubuntu. 
     
 
@@ -127,7 +126,6 @@ This is called a **five-way handshake.**
 - User Datagram protocol, protocol number is 17. 
     
 - It’s a request and response mode. 
-    
 
 - It has header/Flag size of 8bytes. 
     
@@ -142,7 +140,6 @@ This is called a **five-way handshake.**
 
 - Internet Protocols. 
     
-
 - Internet assign number authority. 
     
 - IP Addr is a Network Identity. It's an ID in the network, 
@@ -167,7 +164,6 @@ Company then only hires where you have MAC addr then only you get IP addr. 
     
 - Why IPv6 comes > because the IPv4 get shortage, 
     
-
 - IPv6 is made of 8 blocks, each block hold 128bits 
     
 - IPv6 use hexadecimal, 
