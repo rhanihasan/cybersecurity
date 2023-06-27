@@ -311,7 +311,7 @@ _while_ **_CVSS_** _(Common Vulnerability Scoring System) is a numerical score t
 ---
 
 # ***Meta DATA*** 
-***## What is Meta Data*** ? 
+## *** What is Meta Data*** ? 
 
 Whenever computer/device  creates files, it creates meta data and saved that meta data. 
 
