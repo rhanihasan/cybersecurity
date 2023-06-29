@@ -264,7 +264,8 @@ which is  
 >Client --> Browser/curl, Maria Database, FTP client, SSH 
 
 
-Whatever the software functionality is..  but when the software is over the world to use as a server and client using ports. 
+Whatever the software functionality is.. 
+when the software is over the world to use as a server and client they using ports. 
 
 ## ***Netcat***
 
@@ -290,13 +291,40 @@ nc  127.0.0.1 1
 ![netcatserver_client](./cybersecurity_img/Networking/ports/netcatserver_client.png)
 
 - Wireshark filter For TCP ports {Any Random Port}
+
 ```
 tcp.port==1
 ```
 
+---
+### ***TCP HankShakes***
+
+#### ***TCP Half Connection***
 - Wireshark packet 
 	- TCP SYN,
 	- TCP SY+ACK
 	- TCP ACK
 
 ![tcp_port1_3wayhankshake](./cybersecurity_img/Networking/ports/tcp_port1_3wayhankshake.png)
+
+- Clinet to Server 
+
+![tcp.port.2wayhankshake1](./cybersecurity_img/Networking/ports/tcp_port1_3wayhankshake1.png)
+
+- Server to Client
+
+![tcp.port.3wayhankshake.server.to.clients](./cybersecurity_img/Networking/ports/tcp_port_3wayhandshake_servertoclient.png)
+
+#### ***TCP Full Connections***
+
+- Fin Packet
+
+![Fin.packet.of.tcp.full.connction](./cybersecurity_img/Networking/ports/finpacktoftcpfullconnection.png)
+
+ 
+
+- **If the TCP port is not open in server end this will be the RST packet reset packet:**
+
+![tcp.rst.packet.in.fullconnection](./cybersecurity_img/Networking/ports/tcpportnotopeninfullconnection.png)
+---
+
