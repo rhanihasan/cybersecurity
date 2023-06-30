@@ -37,7 +37,8 @@ Understanding the concept of Network.
 - OSI help to connect all different vendors/PC to each other 
 
 > Example
-> When company create new pc and OSI is applied that means company agree to OSI protocols /rules.
+> 
+When company create new pc and OSI is applied that means company agree to OSI protocols /rules.] 
  
 
 ### ***How data transfer through OSI? Through OSI LAYERS ?***
@@ -324,52 +325,6 @@ tcp.port==1
 
 - **If the TCP port is not open in server end this will be the RST packet reset packet:**
 
-![tcpfulconnectionrstpacket](./cybersecurity_img/Networking/ports/tcpportnotopeninfullconnection.png)
-
-
-
+![tcp.rst.packet.in.fullconnection](./cybersecurity_img/Networking/ports/tcpportnotopeninfullconnection.png)
 ---
-
-### ***UDP***
-
-- -u For UDP
-
-- Wiresharks Filters : udp.port==1
-
-![Netcatudp,ports,opens](./cybersecurity_img/Networking/ports/udp/netcatudpports.png)
-
-- The application layer will be seen when you enter.
-
-#### UDP Request & Response Packet.
-
-![udpresquest,and,response](./cybersecurity_img/Networking/ports/udp/udprequestandresponse.png)
-
-- Clinet Saying Hello To Server 
-
-![udp,client,saying,hello,to,server](./cybersecurity_img/Networking/ports/udp/udp%2Cclinet%2Csayinghello%2Cto%2Cserver.png)
-
-- Wiresharks For UDP Request & Response.
-
-![udpclientsayinghellotoserver](./cybersecurity_img/Networking/ports/udp/udpclientrequestandresponsewireshark.png)
-
-- Server Saying Hello To Client
-
-![udpserversayinghellotoclient](./cybersecurity_img/Networking/ports/udp/udpserversayinghellotoclient.png)
-
-- Wireshark For UDP Packet Server to Client
-
-![udpserversayinghellotoclientwireshark](./cybersecurity_img/Networking/ports/udp/udpserversayinghellotoclientwireshark.png)
-
- 
-
--  If Client and Server Close the Connection of UDP the packet did not generate. 
-
--  It bases on request and response. 
-
- 
-
-And port number 0 is used , at that time nc using the whatever  free port  is ,  
-Choice any port which is available. 
-And why it is used because when connect with multiply tabs on browser , multiply communication. 
-
 
