@@ -6,9 +6,10 @@ sidebar_position: 4
 
   
 
-# ***Foot Printing And More..***
+# Foot Printing And More..
 
- ---
+
+---
 
 ## ***What is Foot Printing***  
 
