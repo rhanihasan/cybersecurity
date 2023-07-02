@@ -260,7 +260,6 @@ which is  
 
 
 >Server --> HTTP, MYSQL, FTP, open SHH 
-
 >Client --> Browser/curl, Maria Database, FTP client, SSH 
 
 
@@ -299,7 +298,7 @@ tcp.port==1
 ---
 ### ***TCP HankShakes***
 
-#### ***TCP Half Connection***
+- #### ***TCP Half Connection***
 - Wireshark packet 
 	- TCP SYN,
 	- TCP SY+ACK
@@ -307,24 +306,104 @@ tcp.port==1
 
 ![tcp_port1_3wayhankshake](./cybersecurity_img/Networking/ports/tcp_port1_3wayhankshake.png)
 
-- Clinet to Server 
+|  Clinet to Server   |
+|---|
+|![tcp.port.2wayhankshake1](./cybersecurity_img/Networking/ports/tcp_port1_3wayhankshake1.png)|
 
-![tcp.port.2wayhankshake1](./cybersecurity_img/Networking/ports/tcp_port1_3wayhankshake1.png)
+| Server to Client |
+|---|
+| ![tcp.port.3wayhankshake.server.to.clients](./cybersecurity_img/Networking/ports/tcp_port_3wayhandshake_servertoclient.png)|
 
-- Server to Client
 
-![tcp.port.3wayhankshake.server.to.clients](./cybersecurity_img/Networking/ports/tcp_port_3wayhandshake_servertoclient.png)
+- #### ***TCP Full Connections***
 
-#### ***TCP Full Connections***
+|Fin Packet |
+|---|
+|![Fin.packet.of.tcp.full.connction](./cybersecurity_img/Networking/ports/finpacktoftcpfullconnection.png) |
 
-- Fin Packet
 
-![Fin.packet.of.tcp.full.connction](./cybersecurity_img/Networking/ports/finpacktoftcpfullconnection.png)
-
- 
 
 - **If the TCP port is not open in server end this will be the RST packet reset packet:**
 
-![tcp.rst.packet.in.fullconnection](./cybersecurity_img/Networking/ports/tcpportnotopeninfullconnection.png)
+![tcprstpacket](./cybersecurity_img/Networking/ports/tcpportnotopeninfullconnection.png)
+
+---
+
+### **UDP**
+
+•	**-u** for UDP,
+![netcat-udp-port-start](./cybersecurity_img/Basic%20Enum%2C%20Info%20Gathering%20%26%20Vulnerability%20Assessment/udp/netcatusplisting.png)
+
+> Wireshark filter: udp.port==1
+
+
+-	***The application layer will be seen when you enter.***
+-	***This is the request and response packet:***
+
+![udp-port-1-wireshark-udp-1](./cybersecurity_img/Basic%20Enum%2C%20Info%20Gathering%20%26%20Vulnerability%20Assessment/udp/udp-port-1-wireshark-1.png)
+
+| ***Client saying hello to server:*** |
+|---|
+|![client-saying-hello-to-server-udp-1](./cybersecurity_img/Basic%20Enum%2C%20Info%20Gathering%20%26%20Vulnerability%20Assessment/udp/clientsayinghelloto%20sserver-udp-1.png) |
+| ***WireShark***|
+| ![client-saying-hello-to-server-udp-1-wiresharks](./cybersecurity_img/Basic%20Enum%2C%20Info%20Gathering%20%26%20Vulnerability%20Assessment/udp/clientsayinghelloto%20sserver-udp-1Wiresharks.png)|
+
+
+| ***Server saying hello to client:***|
+|---|
+|![server-saying-hello-to-client-udp](./cybersecurity_img/Basic%20Enum%2C%20Info%20Gathering%20%26%20Vulnerability%20Assessment/udp/server-saying-hello-to-client-udp-1.png) |
+| ***Wiresharks***|
+|![server-saying-hello-to-client-udp-wireshark](./cybersecurity_img/Basic%20Enum%2C%20Info%20Gathering%20%26%20Vulnerability%20Assessment/udp/server-saying-hello-to-client-udp-1-wireshark.png)|
+
+- If Client and Server Close the Connection of UDP the packet did not generate.
+- It bases on request and response.
+
+And port number 0 is used , at that time nc using the whatever  free port  is , 
+Choice any port which is available.
+And ***why it is used because when connect with multiply tabs on browser , multiply communication.***
+
+### ***Service*** 
+
+- Protocol has its own ***rules and regulations***, and *** same for Services *** also.
+So, services are depended on protocol.
+That means to use the _software application or deployment they do agree on rules and regulation of both protocol and services._
+
+#### HTTP port 80:
+
+|#nc lvp 80 (server) #nc 127.0.0.1 80 (client or use browser)|
+|---|
+|![netcat-http-connection](./cybersecurity_img/Basic%20Enum%2C%20Info%20Gathering%20%26%20Vulnerability%20Assessment/service/http/netcadhttpconnection.png)|
+| First **TCP** connection made because **http uses TCP**  Then **http** connection made:|
+|![netcat-htt-connection-wireshark](./cybersecurity_img/Basic%20Enum%2C%20Info%20Gathering%20%26%20Vulnerability%20Assessment/service/http/netcadhttpconnection-wireshark.png) |
+
+| **Fin Packet** |
+|---|
+|![netcat-http-connection-fin-packet](./cybersecurity_img/Basic%20Enum%2C%20Info%20Gathering%20%26%20Vulnerability%20Assessment/service/http/netcadhttpconnection-fin-packet.png) |
+
+| **When the port is not open and client request in TCP this is the RSK packet:**|
+|---|
+|![netcat-http-connection-rst-packet](./cybersecurity_img/Basic%20Enum%2C%20Info%20Gathering%20%26%20Vulnerability%20Assessment/service/http/netcadhttpconnection_RST_packet.png) |
+
+### ***HTTPS***
+
+- **HTTPS** is the **upgradation** version on **HTTP**.
+- **HTTPS** is secure as in **HTTP** the message and packet are in readable format. But in HTTPS the packets are not in readable format.
+
+|![netcat_https_connections](./cybersecurity_img/Basic%20Enum%2C%20Info%20Gathering%20%26%20Vulnerability%20Assessment/service/https/netcat_https_connection.png)|
+|---|
+
+| **Wireshark**|
+|---|
+|![netcat_https_connections_wireshark](./cybersecurity_img/Basic%20Enum%2C%20Info%20Gathering%20%26%20Vulnerability%20Assessment/service/https/netcat_https_connection_wiresharks.png)|
+
+| **Example** | 
+|---|
+|Hello client Is including in https service rule.|
+|Because of SSL it used to encrypted the packets |
+| **SSL is included in https service** |
+|![ssl-connections](./cybersecurity_img/Basic%20Enum%2C%20Info%20Gathering%20%26%20Vulnerability%20Assessment/service/https/netcat_https_connection_ssl.png) |
+|**Fin Packet** |
+|![ssl-connetion-fin-packet](./cybersecurity_img/Basic%20Enum%2C%20Info%20Gathering%20%26%20Vulnerability%20Assessment/service/https/netcat_https_connection_fin_packet_wiresharks.png) |
+
 ---
 
