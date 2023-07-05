@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Disclaimer ',
-    Svg: require('/static/img/undraw_drink_coffee.svg').default,
+    Svg: require('/static/img/undraw_no_data_re_kwbl.svg').default,
     description: (
       <>
 Please note that the opinions expressed on this website and my connected social media profiles are solely my own and do not represent the views or positions of my employer. 
@@ -23,7 +23,7 @@ you can send me a message to buy me a coffee. Thank you for understanding.
 
   {
     title: 'Whoami ',
-    Svg: require('/static/img/undraw_drink_coffee.svg').default,
+    Svg: require('/static/img/undraw_hacker_mind_-6-y85.svg').default,
     description: (
       <>Welcome! I am a Network Security Engineer and Implementation Engineer working in the field of Cyber Security. With a passion for all things related to the industry, 
       I created this website as a way to share the information and insights I have gained throughout my career. 
