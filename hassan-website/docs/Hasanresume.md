@@ -24,7 +24,7 @@ sidebar_position: 2
 
 -  Possess excellent general management, negotiation, interpersonal, communication, and team-building skills.
 
-***Technical Experience***:
+## ***Technical Experience***:
 
 _Current Company_: ***Netplace Technologies Pvt Ltd Duration***: 23 May 2022
 
@@ -36,7 +36,7 @@ _Roles and Responsibilities_:
 
 - Handling escalation cases and providing outage reports to customers.
 
-***Projects Handled:***
+## ***Projects Handled:***
 
 - _Star | Disney_ (Location: URMI , Mumbai | June-Sept 2022):
 
@@ -77,7 +77,7 @@ _Roles and Responsibilities_:
 
 **Devices**: Cisco Catalyst Switch 2960, 3850, 6509, 7260, 9300, X-series. Cisco Catalyst Router 2611, 2811 series. Cisco ISR Router 2911, 4331, 4661. Cisco Nexus 5k, 9k series. Cisco ENCS 5412. Cisco ESA, ISE, WSA S195. Cisco ASA 5505, 5508x, 5510, 5520x, 5545x, 5555x series. FTD FMC (CLI & ASDM). Cisco Meraki MX64 series, MR36. HPE-Aruba: Aruba Switch 2920, 3810, CX6k series, HP Comware Switch 5600. Aruba API, WLC. RAY R6A-C. Palo Alto: PA220, PA440, PA820. Checkpoint MGMT & DISTRIBUTE 3600, 4000, 5000 series.
 
-**Technical Skills**:
+## **Technical Skills**:
 
 - Expertise in advanced networking protocols and technologies including Ether-channel, VTP, Stacking, VSS, IRF, VSF, Port-Security, Spanning Tree Protocol (STP), RSTP, HSRP, VRRP, VRF, QoS, VPC, and VXLAN.
 
@@ -91,13 +91,15 @@ _Roles and Responsibilities_:
 
 - Familiarity with network infrastructure components such as WLC, FireEye, Gigamon, MPLS, SD-WAN, DNA, DNAC, AD, AWS, Netskope, Virtualization, vSphere, and Docker.
 
-**Certifications**:
+## **Certifications**:
 
 - _OSCP Pursuing_
 
 - CCNP Security- CCN Institute.
 
 - CCNA - CCN Institute.
+
+- The Foundation of Cybersecurity By Google.
 
 - CMNA - Cisco Meraki.
 
@@ -113,7 +115,7 @@ _Roles and Responsibilities_:
 
 - MS-OFFICE, Photoshop, DTP, HTML - AAA Foundation.
 
-**Training**:
+## **Training**:
 
 - Cybersecurity - CCN.
 
@@ -123,7 +125,7 @@ _Roles and Responsibilities_:
 
 -  Cisco ISE 101 - Cisco.
 
-**Education Qualification**:
+## **Education Qualification**:
 
 - Bcom from Rizvi College of Arts, Science and Commerce.
 
@@ -131,7 +133,7 @@ _Roles and Responsibilities_:
 
 - SSC from Saint Theresa's High School.
 
-**Personal Information**:
+## **Personal Information**:
 
 -  Permanent Address: Room No 335, Bhadur Chawl, Makrani Gali, Bheram Nagar, Bandra East, Mumbai 400051.
 
