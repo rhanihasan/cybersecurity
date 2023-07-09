@@ -109,11 +109,11 @@ const config = {
             items: [
               {
                 label: 'Hasan Resume',
-                to: '/cybersecurity/docs/Hasanresume',
+                to: '/cybersecuritys/docs/Hasanresume',
               },
               {
                 label: 'CyberSecurity',
-                to: '/cybersecurity/docs/category/cybersecurity ',
+                to: '/cybersecuritys/docs/category/cybersecurity ',
                 
               },
             ],
