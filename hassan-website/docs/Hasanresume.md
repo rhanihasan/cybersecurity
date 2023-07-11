@@ -48,12 +48,11 @@ _Roles and Responsibilities_:
 
 -  Lower Parel, Peninsula (Nov-Dec - Present):
 
-
-	-  _Role_: Implemented HPE Comware 5600 and 2920 switches on all floors.
+	-   _Role_: Implemented HPE Comware 5600 and 2920 switches on all floors.
 
 - Vile Parle, Zion Building (Nov-Jan):
 
-- _Role_: Troubleshooting low bandwidth issues.
+-  _Role_: Troubleshooting low bandwidth issues.
 
 -  _Accelya_ (Jan-May 2023):
 
