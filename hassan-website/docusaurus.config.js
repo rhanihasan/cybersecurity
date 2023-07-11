@@ -112,7 +112,7 @@ const config = {
                 to: '/cybersecuritys/docs/Hasanresume',
               },
               {
-                label: 'CyberSecurity',
+                label: 'CyberSecuritys',
                 to: '/cybersecuritys/docs/category/cybersecurity ',
                 
               },
